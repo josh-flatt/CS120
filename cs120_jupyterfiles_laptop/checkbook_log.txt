@@ -1,0 +1,4 @@
+### date $ note ; withdrawl , deposit ###
+12/07/21$Example 1;14.32,0.0
+12/07/21$Example 2;0,55.23
+12/08/21$Example 3;775.21,350.56
